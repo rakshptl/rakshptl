@@ -33,8 +33,7 @@ Whether it is optimizing machine learning pipelines or simulating quantum error 
 ---
 
 ### 📫 Let's Connect
-- **LinkedIn:** [Insert your LinkedIn URL here]
-- **Email:** [Insert your Email address here]
-- **Portfolio:** [Insert your Personal Website URL here, if applicable]
+- **LinkedIn:** [linkedin.com/in/raksh-patel-a63b73258]
+- **Email:** [patelraksh180124@gmail.com]
 
 *"Translating complex quantum mechanics and data into actionable, high-performance code."*
